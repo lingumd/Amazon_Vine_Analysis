@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview
-The purpose of this analysis is to determine if there is any bias toward favorable reviews from Vine members in the Beauty products dataset.
+The purpose of this analysis is to determine if there is any bias toward favorable reviews from Amazon Vine members in the Beauty products dataset.
 
 ## Results
 
